@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpap1021, Frontend Developer
-- 👀 I’m interested in Javascript, Rust, Aws
+- 👀 I’m interested in Javascript, Rust, AWS
 - 🌱 I’m currently learning Aws and Rust
 
 
